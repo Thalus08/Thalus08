@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning C++ & Python
+- 🌱 I’m currently learning C++, Python, Java, and any programming languages that I have interest
 
 
 <!---
